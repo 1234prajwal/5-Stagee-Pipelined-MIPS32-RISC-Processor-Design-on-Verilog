@@ -1,2 +1,2 @@
-# 5-Stagee-Pipelined-MIPS32-RISC-Processor-Design-on-Verilog
+# 5-Stage-Pipelined-MIPS32-RISC-Processor-Design-on-Verilog
 MIPS architecture
